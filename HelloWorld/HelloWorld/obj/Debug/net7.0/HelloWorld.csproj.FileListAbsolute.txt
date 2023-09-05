@@ -1,0 +1,15 @@
+D:\Nabil\C# biggner course  code base\HelloWorld\HelloWorld\bin\Debug\net7.0\HelloWorld.exe
+D:\Nabil\C# biggner course  code base\HelloWorld\HelloWorld\bin\Debug\net7.0\HelloWorld.deps.json
+D:\Nabil\C# biggner course  code base\HelloWorld\HelloWorld\bin\Debug\net7.0\HelloWorld.runtimeconfig.json
+D:\Nabil\C# biggner course  code base\HelloWorld\HelloWorld\bin\Debug\net7.0\HelloWorld.dll
+D:\Nabil\C# biggner course  code base\HelloWorld\HelloWorld\bin\Debug\net7.0\HelloWorld.pdb
+D:\Nabil\C# biggner course  code base\HelloWorld\HelloWorld\obj\Debug\net7.0\HelloWorld.csproj.AssemblyReference.cache
+D:\Nabil\C# biggner course  code base\HelloWorld\HelloWorld\obj\Debug\net7.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nabil\C# biggner course  code base\HelloWorld\HelloWorld\obj\Debug\net7.0\HelloWorld.AssemblyInfoInputs.cache
+D:\Nabil\C# biggner course  code base\HelloWorld\HelloWorld\obj\Debug\net7.0\HelloWorld.AssemblyInfo.cs
+D:\Nabil\C# biggner course  code base\HelloWorld\HelloWorld\obj\Debug\net7.0\HelloWorld.csproj.CoreCompileInputs.cache
+D:\Nabil\C# biggner course  code base\HelloWorld\HelloWorld\obj\Debug\net7.0\HelloWorld.dll
+D:\Nabil\C# biggner course  code base\HelloWorld\HelloWorld\obj\Debug\net7.0\refint\HelloWorld.dll
+D:\Nabil\C# biggner course  code base\HelloWorld\HelloWorld\obj\Debug\net7.0\HelloWorld.pdb
+D:\Nabil\C# biggner course  code base\HelloWorld\HelloWorld\obj\Debug\net7.0\HelloWorld.genruntimeconfig.cache
+D:\Nabil\C# biggner course  code base\HelloWorld\HelloWorld\obj\Debug\net7.0\ref\HelloWorld.dll
