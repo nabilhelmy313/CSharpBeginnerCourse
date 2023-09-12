@@ -1,5 +1,4 @@
-# CSharpBeginnerCourse
-# Programming Basics Agenda
+# CSharp Beginner Course Agenda
 
 ## 1. Programming Basics
    - Input/Output
