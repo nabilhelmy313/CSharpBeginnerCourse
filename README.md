@@ -1,7 +1,7 @@
 # C# Beginner Course Agenda
 
 ## 1. Programming Basics
-   - Input/Output
+   - Input/Output/Comments
    - Data Types
    - Variables
    - Operators
