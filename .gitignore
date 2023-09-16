@@ -1,0 +1,87 @@
+# Ignore Visual Studio files and folders
+.vscode/
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.sln.docstates
+
+# Ignore NuGet package files
+packages/
+
+# Ignore user-specific files and settings
+*.userprefs
+*.suo
+*.sln.docstates
+*.suo
+*.user
+
+# Ignore build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb][Ii][Nn]/
+[Ll][Oo][Gg]s/
+[Ll][Ii][Bb]/
+[Nn][Uu][Pp][Kk][Gg][Rr][Ee][Ll][Oo][Cc][Kk]/
+
+# Ignore Visual Studio temporary files
+.vscode/
+.vscodeignore
+
+# Ignore Rider files
+.idea/
+
+# Ignore Resharper files
+_ReSharper*/
+
+# Ignore SQL Server files
+*.mdf
+*.ldf
+
+# Ignore Windows image file caches and directories
+Thumbs.db
+ehthumbs.db
+
+# Ignore folder config file
+Desktop.ini
+
+# Ignore Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Ignore Node.js-related files
+node_modules/
+npm-debug.log
+
+# Ignore user-specific files and settings
+*.suo
+*.user
+*.sln.docstates
+
+# Ignore Mono development files
+mono_crash.*
+
+# Ignore Xcode files
+*.xcuserstate
+
+# Ignore JetBrains Rider
+.idea/
+
+# Ignore Atlassian Sourcetree
+.sourcetree/
+
+# Ignore macOS Finder files
+.DS_Store
+
+# Ignore npm package locks
+package-lock.json
+
+# Ignore yarn.lock
+yarn.lock
