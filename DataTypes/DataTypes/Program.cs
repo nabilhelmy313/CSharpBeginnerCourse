@@ -4,7 +4,7 @@ int myInteger = 42;
 Console.WriteLine($"int {myInteger}");
 double myDouble = 3.14159;
 Console.WriteLine($"double {myDouble}");
-bool isTrue = true;
+bool isTrue = false;
 Console.WriteLine($"boolean {isTrue}");
 
 //Referance Types
