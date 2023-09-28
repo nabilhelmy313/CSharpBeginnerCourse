@@ -1,16 +1,16 @@
-﻿
-Console.WriteLine("Console Calculator");
-Console.WriteLine("Enter 'q' to quit.");
-Console.Write("Enter the first number: ");
+﻿global using static System.Console;
 
-if (double.TryParse(Console.ReadLine(), out double num1))
+WriteLine("Console Calculator");
+Write("Enter the first number: ");
+var isNumber1 = double.TryParse(ReadLine(), out double num1);
+if (isNumber1)
 {
-    Console.Write("Enter an operator (+, -, *, /): ");
-    char op = Console.ReadLine()[0];
+    Write("Enter an operator (+, -, *, /): ");
+    char op = ReadLine()[0];
 
-    Console.Write("Enter the second number: ");
-
-    if (double.TryParse(Console.ReadLine(), out double num2))
+    Write("Enter the second number: ");
+    var isNumber2 = double.TryParse(ReadLine(), out double num2);
+    if (isNumber2)
     {
         double result = 0.0;
 
@@ -29,20 +29,22 @@ if (double.TryParse(Console.ReadLine(), out double num1))
                 if (num2 != 0)
                     result = num1 / num2;
                 else
-                    Console.WriteLine("Error: Division by zero.");
+                    WriteLine("Error: Division by zero.");
                 break;
             default:
-                Console.WriteLine("Error: Invalid operator.");
+                WriteLine("Error: Invalid operator.");
                 break;
         }
 
-        Console.WriteLine($"Result: {num1} {op} {num2} = {result}");
+        WriteLine($"Result: {num1} {op} {num2} = {result}");
     }
     else
     {
-        Console.WriteLine("Error: Invalid second number.");
+        WriteLine("Error: Invalid second number.");
     }
 }
-Console.WriteLine("\nPress Enter to continue...");
-Console.ReadLine();
-Console.Clear();
+else
+{
+    WriteLine("invalid Charachter");
+}
+ReadKey();
