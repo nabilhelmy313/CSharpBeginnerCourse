@@ -1,3 +1,3 @@
 ﻿using Constructors;
 
-Product product = new Product("nabil");
+Product product = new Product();
