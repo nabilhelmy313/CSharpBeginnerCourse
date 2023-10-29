@@ -10,7 +10,11 @@
         }
         public virtual string SumPrice(string name)
         {
-            return $"{name} is {(Price * Quantity).ToString)}";
+            return $"{name} is {(Price * Quantity)}";
+        }
+        public void PrintName(string name)
+        {
+            Console.WriteLine("name is " + name);
         }
     }
 }
