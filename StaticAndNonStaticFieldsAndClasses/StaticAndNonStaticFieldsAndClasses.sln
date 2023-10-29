@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticAndNonStaticFieldsAndClasses", "StaticAndNonStaticFieldsAndClasses\StaticAndNonStaticFieldsAndClasses.csproj", "{F53F75E9-C084-4ED5-80E7-531659193ABB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F53F75E9-C084-4ED5-80E7-531659193ABB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F53F75E9-C084-4ED5-80E7-531659193ABB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F53F75E9-C084-4ED5-80E7-531659193ABB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F53F75E9-C084-4ED5-80E7-531659193ABB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11F66A99-88C7-4036-BFC0-0C72B05C1F97}
+	EndGlobalSection
+EndGlobal
