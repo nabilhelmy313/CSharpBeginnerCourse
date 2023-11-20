@@ -31,18 +31,8 @@
 
 ## 9. Arrays and Multidimensional Arrays
 
-## 10. Lists and Dictionaries
+## 10. Exception Handling Basics
 
-## 11. Exception Handling Basics
+## 11. Try-Catch Blocks
 
-## 12. Try-Catch Blocks
-
-## 13. Throwing Exceptions
-
-## 14. File Handling Basics
-
-## 15. Reading and Writing to Files
-
-## 16. Basic LINQ
-
-## 17. Query Syntax
+## 12. Throwing Exceptions
